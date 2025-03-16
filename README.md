@@ -1,7 +1,7 @@
 # Installation
 ```
 sudo chmod +x ./ntlm_theft.py
-mv ./ntlm_theft.py /usr/local/bin
+sudo mv ./ntlm_theft.py /usr/local/bin
 ```
 
 # ntlm_theft
