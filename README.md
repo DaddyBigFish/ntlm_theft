@@ -1,7 +1,9 @@
 # Installation
 ```
+git clone ...
 sudo chmod +x ./ntlm_theft.py
 sudo mv ./ntlm_theft.py /usr/local/bin
+sudo mv templates /usr/local/bin
 ```
 
 # ntlm_theft
